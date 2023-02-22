@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Buy groceries",
+      "day": "Monday 28th February 2023",
+      "remainder": true
+    },
+    {
+      "text": "Take a test",
+      "day": "Thursday 2nd March 2023",
+      "remainder": false,
+      "id": 4
+    },
+    {
+      "text": "Go for Shopping",
+      "day": "Friday 3rd March 2023",
+      "remainder": true,
+      "id": 5
+    }
+  ]
+}
